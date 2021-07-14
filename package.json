@@ -1,0 +1,25 @@
+{
+  "name": "new-horizons-db-editor",
+  "version": "1.0.0",
+  "description": "Electron application for editing New Horizons database files.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeopoldHock/new-horizons-db-editor.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Leopold Hock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeopoldHock/new-horizons-db-editor/issues"
+  },
+  "homepage": "https://github.com/LeopoldHock/new-horizons-db-editor#readme",
+  "devDependencies": {
+    "electron": "^13.1.6"
+  }
+}
